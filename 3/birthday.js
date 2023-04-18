@@ -404,7 +404,7 @@ window.addEventListener( 'resize', function(){
   w = c.width = window.innerWidth;
   h = c.height = window.innerHeight;
   
-  hw = w / 2;
+  hw = w / 1;
   hh = h / 2;
   
   ctx.font = opts.charSize + 'px Verdana';
